@@ -1,0 +1,2 @@
+[console_scripts]
+ssl-labs-screenshot = ssl_labs_screenshot.__main__:main

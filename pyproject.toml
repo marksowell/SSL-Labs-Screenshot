@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "ssl-labs-screenshot"
+version = "1.0.8"
+description = "A Python package to capture a trimmed screenshot of the SSL Labs report for a given domain."
+authors = [
+    {name = "Mark Sowell", email = "mark@marksowell.com"},
+]
+readme = "README.md"
+keywords = ["ssl", "screenshot", "ssllabs"]
+requires-python = ">=3.6"
+dependencies = [
+    "selenium >= 3.141.0",
+    "Pillow >= 8.3.2",
+]
+
+[project.urls]
+Source = "https://github.com/marksowell/ssl-labs-screenshot"
+
+[project.scripts]
+ssl-labs-screenshot = "ssl_labs_screenshot.__main__:main"
+
+[project.license]
+text = "MIT"

@@ -1,0 +1,22 @@
+# .gitignore
+
+# Distribution files
+/dist/
+
+# Build files
+/build/
+
+# Egg-info directory
+/*.egg-info/
+
+# Ignore any Python bytecode files (*.pyc, *.pyo, etc.)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore any temporary files created by text editors or the operating system
+*.swp
+*.swo
+*~
+.DS_Store
