@@ -8,6 +8,7 @@
 
 # Egg-info directory
 /*.egg-info/
+src/*.egg-info/
 
 # Ignore any Python bytecode files (*.pyc, *.pyo, etc.)
 __pycache__/
