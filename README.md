@@ -10,12 +10,13 @@ A Python package to capture a trimmed screenshot of the SSL Labs report for a gi
 
 ## Installation
 1. Install using pip:
+
    ```
    pip install ssl-labs-screenshot
    ```
-3. Download the latest version of ChromeDriver from the following link: https://sites.google.com/chromium.org/driver/downloads
-4. Extract the contents of the downloaded ZIP file.
-5. Either move the ChromeDriver executable to a directory that is already included in your system's `PATH` environment variable, or add the directory containing the extracted ChromeDriver executable to your system's `PATH` variable.
+2. Download the latest version of ChromeDriver from the following link: https://sites.google.com/chromium.org/driver/downloads
+3. Extract the contents of the downloaded ZIP file.
+4. Either move the ChromeDriver executable to a directory that is already included in your system's `PATH` environment variable, or add the directory containing the extracted ChromeDriver executable to your system's `PATH` variable.
 
 ## Usage
 Run the script with the following command:

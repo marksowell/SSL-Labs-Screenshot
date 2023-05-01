@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ssl-labs-screenshot
-Version: 1.0.8
+Version: 1.0.9
 Summary: A Python package to capture a trimmed screenshot of the SSL Labs report for a given domain.
 Author-email: Mark Sowell <mark@marksowell.com>
 License: MIT
@@ -13,7 +13,7 @@ License-File: LICENSE.txt
 # SSL Labs Screenshot
 A Python package to capture a trimmed screenshot of the SSL Labs report for a given domain.
 
-<p align="center"><img src="images/www.ssllabs.com_report.png" width="300px" />
+<p align="center"><img src="https://raw.githubusercontent.com/marksowell/SSL-Labs-Screenshot/main/images/www.ssllabs.com_report.png" width="300px" />
 
 ## Requirements
 - Python 3.6
