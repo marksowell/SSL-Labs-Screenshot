@@ -1,7 +1,7 @@
 # SSL Labs Screenshot
 A Python package to capture a trimmed screenshot of the SSL Labs report for a given domain.
 
-<p align="center"><img src="images/www.ssllabs.com_report.png" width="300px" />
+<p align="center"><img src="https://raw.githubusercontent.com/marksowell/SSL-Labs-Screenshot/main/images/www.ssllabs.com_report.png" width="300px" />
 
 ## Requirements
 - Python 3.6
