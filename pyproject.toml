@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 
 [project]
 name = "ssl-labs-screenshot"
-version = "1.0.8"
+version = "1.0.9"
 description = "A Python package to capture a trimmed screenshot of the SSL Labs report for a given domain."
 authors = [
     {name = "Mark Sowell", email = "mark@marksowell.com"},

@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from PIL import Image
 from urllib.parse import urlparse
 
-VERSION = "v1.0.8"
+VERSION = "v1.0.9"
 
 def is_valid_domain(domain):
     try:
